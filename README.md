@@ -20,5 +20,5 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KAGHAN-gg&theme=default" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KAGHAN-gg&theme=tokyonight" alt="GitHub Streak" />
 
